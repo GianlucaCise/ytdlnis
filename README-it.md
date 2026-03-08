@@ -28,10 +28,10 @@
 </div>
 
 <h3 align="center">
-	YTDLnis is a free and open source video/audio downloader using yt-dlp for Android 7.0 and above.
+	YTDLnis è un downloader audio/video gratuito e open-source che utilizza yt-dlp per Android 7.0 e superiore.
 </h3>
 <h4 align="center">
-	Created by Denis Çerri
+	Creato da Denis Çerri
 </h4>
 
 <div align="center">
@@ -51,8 +51,7 @@
 [![website](https://img.shields.io/badge/Website-orange?style=flat-square&logo=youtube)](https://ytdlnis.org)
 ![GitHub Sponsor](https://img.shields.io/github/sponsors/deniscerri?label=Sponsor&logo=GitHub)
 
-### Only the links above are the only trusted sources of YTDLnis. Everything else is not related to me.
-
+### Solamente i link qui sopra sono fonti ufficiali e sicure.
 </div>
 
 ## 💡 Features:
