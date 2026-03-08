@@ -4,7 +4,9 @@
 </h1>
 
 <div align="center">
-	English
+	Italiano
+	&nbsp;&nbsp;| &nbsp;&nbsp;
+	<a href="https://github.com/deniscerri/ytdlnis/blob/main/README.md">English</a>
 	&nbsp;&nbsp;| &nbsp;&nbsp;
 	<a href="https://github.com/deniscerri/ytdlnis/blob/main/README-sq.md">Shqip</a>
 	&nbsp;&nbsp;| &nbsp;&nbsp;
